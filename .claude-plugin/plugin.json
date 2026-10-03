@@ -1,0 +1,23 @@
+{
+  "name": "sky-vesmir-skills",
+  "displayName": "Sky Vesmir's Skills",
+  "version": "1.0.0",
+  "description": "Google Drive 整理・Obsidian 最適化スキル（drive-organizer-obsidian-optimizer）と、商業出版水準の小説編集・校正・表現トレーニングスキル（novel-editor）を収録した Claude プラグイン",
+  "author": {
+    "name": "Sky Vesmir",
+    "email": "skyfaminfinity@gmail.com",
+    "url": "https://github.com/skyvesmir"
+  },
+  "homepage": "https://github.com/skyvesmir/Sky-Vesmir-s-Skills",
+  "repository": "https://github.com/skyvesmir/Sky-Vesmir-s-Skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "google-drive",
+    "obsidian",
+    "novel-editor",
+    "proofreading",
+    "creative-writing",
+    "japanese"
+  ]
+}

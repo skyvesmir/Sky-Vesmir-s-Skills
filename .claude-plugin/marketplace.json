@@ -1,0 +1,25 @@
+{
+  "name": "sky-vesmir-skills",
+  "description": "Sky Vesmir の Claude スキルコレクション（Google Drive 整理・Obsidian 最適化、小説編集・校正・表現トレーニング）",
+  "owner": {
+    "name": "Sky Vesmir",
+    "email": "skyfaminfinity@gmail.com",
+    "url": "https://github.com/skyvesmir"
+  },
+  "plugins": [
+    {
+      "name": "sky-vesmir-skills",
+      "source": "./",
+      "description": "Google Drive 整理・Obsidian 最適化スキル（drive-organizer-obsidian-optimizer）と、商業出版水準の小説編集・校正・表現トレーニングスキル（novel-editor）を収録した Claude プラグイン",
+      "category": "productivity",
+      "tags": [
+        "google-drive",
+        "obsidian",
+        "novel-editor",
+        "proofreading",
+        "creative-writing",
+        "japanese"
+      ]
+    }
+  ]
+}
